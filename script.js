@@ -64,3 +64,6 @@ function resetGame() {
 }
 
 createBoard();
+
+
+// Thiago Torres
