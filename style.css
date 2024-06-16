@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #40ad92;
+    background: linear-gradient(45deg, #82adbe 0%,#0a488f 100%);
 }
 
 #game {
